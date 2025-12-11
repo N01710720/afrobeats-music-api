@@ -1,5 +1,5 @@
 import express from "express";
-import * as songModel from "../models/songModel.js";
+import * as songModel from "../models/song.model.js";
 import { validateSong } from "../middlewares/songValidator.js";
 
 const router = express.Router();
