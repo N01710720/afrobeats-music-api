@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "title": "Essence",
+    "artist": "Wizkid ft. Tems",
+    "year": 2020,
+    "genre": "Afrobeats",
+    "popularity": 95
+  },
+  {
+    "id": 2,
+    "title": "Peru",
+    "artist": "Fireboy DML",
+    "year": 2021,
+    "genre": "Afrobeats",
+    "popularity": 88
+  },
+  {
+    "id": 3,
+    "title": "STRONGER",
+    "artist": "Drae Ttw",
+    "year": 2025,
+    "genre": "Afrobeats",
+    "popularity": 100
+  }
+]
+
+

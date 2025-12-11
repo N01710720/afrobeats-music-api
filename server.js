@@ -18,6 +18,13 @@ const songs = [
     artist: "Fireboy DML",
     year: 2021,
     genre: "Afrobeats"
+  },
+  {
+    id: 3,
+    title: "STRONGER",
+    artist: "Drae Ttw",
+    year: 2025,
+    genre: "Afrobeats"
   }
 ];
 
